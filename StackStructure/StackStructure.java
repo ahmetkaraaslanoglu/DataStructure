@@ -2,7 +2,7 @@ class StackStructure {
     private int top;
     private final Object[] elements;
 
-    //        Bütün fonksiyonların zaman maliyetleri: 1
+    //        Bütün fonksiyonların zaman maliyetleri: Q(1)
 
     StackStructure(int capacity){
         elements = new Object[capacity];
