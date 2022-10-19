@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Single_Linked_List linked_list = new Single_Linked_List(); //
+        Single_Linked_List linked_list = new Single_Linked_List();
 
         linked_list.insert(4);
         linked_list.insert(8);
