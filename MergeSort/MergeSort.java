@@ -20,7 +20,6 @@ class MergeSort
 
         /* geçici dizileri birleştirmek */
         int i = 0, j = 0;
-        // Initial index of merged subarray array
         int k = l;
         while (i < n1 && j < n2)
         {
